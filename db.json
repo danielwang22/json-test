@@ -1,103 +1,11 @@
 {
-    "products": [
-        {
-            "id": "a8ceb076-52f1-46c7-a08f-b611100175d3",
-            "name": "蜂蜜蘆薈潤膚乳",
-            "images": [
-                "https://www.valvola.com.tw/assets/uploads/530x530/20160504115018231508.jpg"
-            ],
-            "price": 966,
-            "discount": 166,
-            "discount_type": "",
-            "review": 1,
-            "stock": true,
-            "countDown": "2021/07/31",
-            "specs": {
-                "容量": [
-                    {
-                        "name": "500ml",
-                        "price": 966
-                    },
-                    {
-                        "name": "400ml",
-                        "price": 966
-                    },
-                    {
-                        "name": "300ml",
-                        "price": 966
-                    }
-                ]
-            },
-            "cate_id": [
-                "ceb22d9c-c1f6-11eb-8529-0242ac130011"
-            ],
-            "tag": []
-        },
-        {
-            "id": "030cbe41-d7ce-4dd8-ba72-1909543cf1ba",
-            "name": "柔順彈力潤絲精",
-            "images": [
-                "https://www.valvola.com.tw/assets/uploads/530x530/20180302152111446177.jpg"
-            ],
-            "price": 950,
-            "discount": 166,
-            "discount_type": "",
-            "review": 2,
-            "stock": true,
-            "countDown": "2021/07/31",
-            "specs": {
-                "容量": [
-                    {
-                        "name": "500ml",
-                        "price": 966
-                    },
-                    {
-                        "name": "400ml",
-                        "price": 966
-                    },
-                    {
-                        "name": "300ml",
-                        "price": 966
-                    }
-                ]
-            },
-            "cate_id": [
-                "ceb22d9c-c1f6-11eb-8529-0242ac130011"
-            ],
-            "tag": []
-        },
-        {
-            "id": "21af4b72-c283-466b-b7b4-27476db733ec",
-            "name": "奧勒岡精油洗髮沐浴露",
-            "images": [
-                "https://www.valvola.com.tw/assets/uploads/530x530/20160504114233374.jpg"
-            ],
-            "price": 950,
-            "discount": 166,
-            "discount_type": "",
-            "review": 4,
-            "stock": true,
-            "countDown": "2021/07/31",
-            "specs": {
-                "容量": [
-                    {
-                        "name": "500ml",
-                        "price": 966
-                    },
-                    {
-                        "name": "400ml",
-                        "price": 966
-                    },
-                    {
-                        "name": "300ml",
-                        "price": 966
-                    }
-                ]
-            },
-            "cate_id": [
-                "ceb22d9c-c1f6-11eb-8529-0242ac130011"
-            ],
-            "tag": []
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
