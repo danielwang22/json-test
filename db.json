@@ -1,0 +1,703 @@
+{
+    "products": [
+        {
+            "id": "a8ceb076-52f1-46c7-a08f-b611100175d3",
+            "name": "蜂蜜蘆薈潤膚乳",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20160504115018231508.jpg"
+            ],
+            "price": 966,
+            "discount": 166,
+            "discount_type": "",
+            "review": 1,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "ceb22d9c-c1f6-11eb-8529-0242ac130011"
+            ],
+            "tag": []
+        },
+        {
+            "id": "030cbe41-d7ce-4dd8-ba72-1909543cf1ba",
+            "name": "柔順彈力潤絲精",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20180302152111446177.jpg"
+            ],
+            "price": 950,
+            "discount": 166,
+            "discount_type": "",
+            "review": 2,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "ceb22d9c-c1f6-11eb-8529-0242ac130011"
+            ],
+            "tag": []
+        },
+        {
+            "id": "21af4b72-c283-466b-b7b4-27476db733ec",
+            "name": "奧勒岡精油洗髮沐浴露",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20160504114233374.jpg"
+            ],
+            "price": 950,
+            "discount": 166,
+            "discount_type": "",
+            "review": 4,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "ceb22d9c-c1f6-11eb-8529-0242ac130011"
+            ],
+            "tag": []
+        },
+        {
+            "id": "acf03fa7-ab78-4741-8446-d88771a036b8",
+            "name": "白松露洗髮沐浴露",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20160523160050961998.jpg"
+            ],
+            "price": 950,
+            "discount": 166,
+            "discount_type": "",
+            "review": 5,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "ceb22fcc-c1f6-11eb-8529-0242ac135553"
+            ],
+            "tag": []
+        },
+        {
+            "id": "c66bf334-43e8-4f5c-840f-8e90c1a399b1",
+            "name": "金盞花洗髮沐浴露",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/2016041414264552982.jpg"
+            ],
+            "price": 950,
+            "discount": 166,
+            "discount_type": "",
+            "review": 2,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "ceb22fcc-c1f6-11eb-8529-0242ac135553"
+            ],
+            "tag": []
+        },
+        {
+            "id": "658ea76a-df53-4d00-8589-a4d04e87e444",
+            "name": "橄欖葉保濕潔手露",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20191108144816285144.jpg"
+            ],
+            "price": 950,
+            "discount": 166,
+            "discount_type": "",
+            "review": 2,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "c19d5e53-5102-44ff-931d-5b14a0c7c3b0"
+            ],
+            "tag": []
+        },
+        {
+            "id": "791cbb64-834a-470a-ba07-26a133c144bd",
+            "name": "有機金盞花淨化洗髮精",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20191108154937454182.jpg"
+            ],
+            "price": 950,
+            "discount": 166,
+            "discount_type": "",
+            "review": 2,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "c19d5e53-5102-44ff-931d-5b14a0c7c3b0"
+            ],
+            "tag": []
+        },
+        {
+            "id": "b49c3422-8283-4865-b158-df7d59c49278",
+            "name": "有機洋甘菊保濕沐浴露",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20191108144833842281.jpg"
+            ],
+            "price": 950,
+            "discount": 166,
+            "discount_type": "",
+            "review": 2,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "c19d5e53-5102-44ff-931d-5b14a0c7c3b0"
+            ],
+            "tag": []
+        },
+        {
+            "id": "6beaef5d-ec48-44a8-a189-80fe4ba29f23",
+            "name": "法國密碼植萃精油輕旅組",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20201221063132680935.jpg"
+            ],
+            "price": 950,
+            "discount": 166,
+            "discount_type": "",
+            "review": 2,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "41823d23-b1f9-40dd-8fd5-6e564596b3a7"
+            ],
+            "tag": []
+        },
+        {
+            "id": "eb3b1576-83df-4005-b0cf-d2c971e8be0d",
+            "name": "體驗包索取處",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20201221063217122405.jpg"
+            ],
+            "price": 950,
+            "discount": 166,
+            "discount_type": "",
+            "review": 2,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "ceb2379c-c1f6-11eb-8529-0242ac130003"
+            ],
+            "tag": []
+        },
+        {
+            "id": "e16fbbaf-e668-4a5f-89d3-7260d05c1935",
+            "name": "地中海永久花高效保濕乳",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20160414141934272979.jpg"
+            ],
+            "price": 950,
+            "discount": 166,
+            "discount_type": "",
+            "review": 3,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "ceb22fcc-c1f6-11eb-8529-0242ac135553"
+            ],
+            "tag": []
+        },
+        {
+            "id": "40ac5185-e54b-4ee9-ab2d-a5d568aa8543",
+            "name": "煙波系列買二送一",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20160523160050961998.jpg"
+            ],
+            "price": 1900,
+            "discount": 166,
+            "discount_type": "",
+            "review": 4,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "ceb2379c-c1f6-11eb-8529-0242ac130003"
+            ],
+            "tag": []
+        },
+        {
+            "id": "f6616e56-4f6e-46d2-8ffd-5181b1e65b42",
+            "name": "密碼任搭2瓶組贈沐浴球",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20201225055221367512.jpg"
+            ],
+            "price": 1299,
+            "discount": 166,
+            "discount_type": "",
+            "review": 2,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "ceb2379c-c1f6-11eb-8529-0242ac130003"
+            ],
+            "tag": []
+        },
+        {
+            "id": "e4a356b6-8116-4323-ab3a-eaf381a41a30",
+            "name": "任搭2瓶組贈沐浴球",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20201225055204876923.jpg"
+            ],
+            "price": 1299,
+            "discount": 166,
+            "discount_type": "",
+            "review": 1,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "ceb2379c-c1f6-11eb-8529-0242ac130003"
+            ],
+            "tag": []
+        },
+        {
+            "id": "c2f2fc07-b15f-47ed-ae31-eedbe4baf0d9",
+            "name": "500ML瓶架",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/2019122314091759724.jpg"
+            ],
+            "price": 350,
+            "discount": 166,
+            "discount_type": "",
+            "review": 1,
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "ceb2379c-c1f6-11eb-8529-0242ac130003"
+            ],
+            "tag": []
+        },
+        {
+            "id": "6f1aefc8-6140-4291-8d74-cb8b57aebe0a",
+            "name": "芭歐芭沁透晶露",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20201113055458882009.jpg"
+            ],
+            "review": 3,
+            "price": 1035,
+            "discount": 166,
+            "discount_type": "",
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "6b684e2f-e901-48c1-b4c3-5b8fb47d11fa",
+                "c19d5e53-5102-44ff-931d-5b14a0c7c3c4"
+            ],
+            "tag": []
+        },
+        {
+            "id": "6a74f856-1775-4df9-a337-cab037453c3c",
+            "name": "璀璨潔顏卸妝乳",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20160412180208140913.jpg"
+            ],
+            "review": 3,
+            "price": 735,
+            "discount": 166,
+            "discount_type": "",
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "39c8c1c6-2fd4-4962-bdb8-06dc4f4d116f",
+                "ef1cd536-fd23-42d8-9bcd-3aa54994c22d"
+            ],
+            "tag": []
+        },
+        {
+            "id": "6669bac0-13be-4d73-89b0-51d5ae42f377",
+            "name": "璀璨去角質凝膠",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20160412171053885121.jpg"
+            ],
+            "review": 3,
+            "price": 544,
+            "discount": 166,
+            "discount_type": "",
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "39c8c1c6-2fd4-4962-bdb8-06dc4f4d116f",
+                "ef1cd536-fd23-42d8-9bcd-3aa54994c22d"
+            ],
+            "tag": []
+        },
+        {
+            "id": "745f6448-1a39-4751-8637-4684932d119e",
+            "name": "璀璨潔顏慕絲",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20201118062150475341.jpg"
+            ],
+            "review": 3,
+            "price": 544,
+            "discount": 166,
+            "discount_type": "",
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "39c8c1c6-2fd4-4962-bdb8-06dc4f4d116f",
+                "ef1cd536-fd23-42d8-9bcd-3aa54994c22d"
+            ],
+            "tag": []
+        },
+        {
+            "id": "05ffecc6-83ab-4d56-aad4-284826e7a9e7",
+            "name": "麥蘆卡全效控油洗面乳",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20160411190141125535.jpg"
+            ],
+            "review": 3,
+            "price": 464,
+            "discount": 166,
+            "discount_type": "",
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "68d45937-1437-4eac-bff3-309bff41c7f0",
+                "13d99032-e41e-4fa2-b8ea-3c970f2cbaa2"
+            ],
+            "tag": []
+        },
+        {
+            "id": "05ffecc6-83ab-4d56-aad4-284826e73221",
+            "name": "保加利亞玫瑰純露",
+            "images": [
+                "https://www.valvola.com.tw/assets/uploads/530x530/20201229075504869467.jpg"
+            ],
+            "review": 3,
+            "price": 1800,
+            "discount": 166,
+            "discount_type": "",
+            "stock": true,
+            "countDown": "2021/07/31",
+            "specs": {
+                "容量": [
+                    {
+                        "name": "500ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "400ml",
+                        "price": 966
+                    },
+                    {
+                        "name": "300ml",
+                        "price": 966
+                    }
+                ]
+            },
+            "cate_id": [
+                "3b56b3c2-00f4-4607-9541-17b544fa2f77",
+                "30fa75c7-1603-4904-9d1d-e24cb7526225"
+            ],
+            "tag": []
+        }
+    ]
+}
